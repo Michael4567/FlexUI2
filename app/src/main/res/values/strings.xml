@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FlexUI2</string>
+
+    <string-array name="chapters">
+        <item>Activitys</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intents and Intent Filters</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>
+            An activity is a single, focused thing that the user can do. Almost all activities i
+            nteract with the user, so the Activity class takes care of creating a window for you in
+        </item>
+        <item>
+            A Service is an application component that can perform long-running operations in the
+            background and does not provide a user interface. Another application
+        </item>
+        <item>
+            Content providers manage access to a structured set of data. They encapsulate
+            the data, and provide mechanisms for defining data securit
+        </item>
+        <item>
+            An intent is an abstract description of an operation to be performed. It can be used with
+            startActivity to launch an Activity , broadcastIntent to send it to any
+        </item>
+    </string-array>
+</resources>
